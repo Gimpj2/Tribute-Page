@@ -1,0 +1,103 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" rel="stylesheet">
+
+<div id="main">
+  <div id="title">HOLLY</div>
+  <div id="title2">Our Brave Tripaw</div>
+  
+  <div id="img-div">
+    <img id="image" src="https://forholly2018.tripawds.com/files/2018/02/Holly-Cares-staples-out-e1517692650983.jpg" class="image-responsive" alt="Holly laying on floor waiting for vet appointment">
+    <div id="img-caption"> Holly smiling waiting to see the Vet Oncologist for her follow up appointment.</div>
+  </div>
+  <div id="tribute-info"> 
+    <p>Here is some information about Holly, her life and her battle against cancer:</p>
+    <ul>
+      <li><b>2010</b> - Holly was purchased by an elderly couple from a breeder. After the wife sustained a broken hip, Holly was sent to live outside. When the weather became cold, she was turned over to rescue and we adopted her.</li>
+    <li><b>2010-2017</b> - Holly lived happly with her fursiblings in our home. In 2017, over Christmas break we noticed her leg shaking and a large bump on her paw. She went to the vet and a large tumor was found up by her armpit.</li>
+      <li><b>January 19, 2018</b> - Holly had surgery to amputate her front left leg due to an aggressive nerve sheeth sarcoma. This was supposed to be curative.</li>
+      <li><b>January 21, 2018</b> - Holly came home from her surgery and her recovery began. She started to learn how to walk on 3 legs.</li>
+      <li><b>February 2018</b> - Holly went for her follow up Oncology appointment and was delared in remission. She is mastering the art of walking on 3 legs and getting back to her normal activities.</li>
+      <li><b>March 2018</b> - Holly was diagnosed with a torn CCL in her back right leg on the day of her amputation. This month she was fitted with a hot pink brace to support her back leg. Now that she has mastered being a "tripaw" she is mastering walking with her new brace.</li>
+      <li><b>May 2018</b> - Holly started coughing and went back to the Oncologist for chest x-rays. She was diagnosed with a new cancer in her lungs and started Chemotherapy treatments.</li>
+      <li><b>June 2018</b> - Holly went for her follow up appointment with her Oncologist. There are more tumors, although she seemed to be feeling better, her cancer is progressing. Chemotherapy treatment was changed. She remains strong and continues to go out to the backyard to play with her fursiblings by using the steps from the door to the yard.</li>
+      <li><b>July 2018</b> - Holly fought so very hard but the cancer was too much. It overtook her lungs and she crossed the "rainbow bridge" on July 7, 2018. Holly made many friends from all over the world online. The messages of love and support for her throughout her jorney were incredible. She lives on in our hearts and memory. Until we meet again, sweet Holly. </li>
+    </ul>
+    <p1> To read more about our sweet Holly and her journey you can view her webpage <a id="tribute-link" href="https://forholly2018.tripawds.com/" target="_blank"> forholly2018</a></p1>
+      </div>
+  </div>
+        
+      
+      
+      
+      #main {
+  background-color: purple;
+  display: container;
+  display: block;
+  border-style: solid;
+  border-color: black;
+  border-width: 20px;
+  border-radius: 10px;
+  width: 10in;
+  max-width; 100%;
+  position: relative;
+  margin: auto;
+  top: 10px;
+  bottom: 10px;
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  border-radius: 10px;
+  padding: 10px 0px 10px 0px;
+  }
+#title{
+  text-align: center;
+  font-family: open-sans;
+  font-size: 78px;
+  font-weight: bold;  
+  padding-bottom: 5px; 
+}
+#title2{
+  text-align: center;
+  font-family: open-sans;
+  font-size: 58px;
+  font-weight: bold;
+}
+#img-div{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  text-align: center; 
+  padding: 10px 10px 20px 10px;
+  margin: 10px 10px 10px 10px;
+  } 
+#image{
+  height: auto;
+  width: 100%;
+  max-width: 824px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  }
+#img-caption {
+  font-family: open-sans;
+  font-weight: bold;
+  font-size: 15px;
+  position: center;
+  }
+#tribute-info{
+  position: relative;
+  font-family: open-sans;
+  font-size: 25px;
+  width: 80%;
+  left: 10%;
+}
+p{
+  font-weight: bold;
+  font-size: 25px;
+}
+li{
+  margin: 10px 0px 20px 0px
+}
+p1{
+  font-size: 25px;
+  font-weight: bold;
+}
